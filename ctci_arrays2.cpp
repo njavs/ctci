@@ -26,7 +26,7 @@ int main()
     
     // reverse the array
     for (int i = 0; i < len; i++){
-        reverse[i] = string[len-i-1]; // * * *
+        reverse[i] = string[len-i-1]; // WORKS.
         cout << reverse[i];
     }
 }
