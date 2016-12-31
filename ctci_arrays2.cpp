@@ -1,8 +1,5 @@
 // ctci_arrays2.cpp
 //  practice
-//
-//  Created by N Sujela on 12/30/16.
-//  Copyright © 2016 N Sujela. All rights reserved.
 
 #include <iostream>
 #include <cstdlib>
